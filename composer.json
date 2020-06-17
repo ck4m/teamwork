@@ -1,9 +1,13 @@
 {
-    "name": "rossedman/teamwork",
+    "name": "hyperdigital/teamwork",
     "description": "PHP wrapper for the Teamwork project management API",
     "keywords": ["teamwork", "api", "laravel", "project management"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Christian koch",
+            "email": "christian.koch@hyperdigital.de"
+        },
         {
             "name": "Ross Edman",
             "email": "ross.edman@gmail.com"
